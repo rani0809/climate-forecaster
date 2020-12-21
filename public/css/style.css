@@ -1,3 +1,69 @@
-h1{
-    color:red;
+@import url('https://fonts.googleapis.com/css2?family=Piazzolla:wght@200;300;400&display=swap');
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family:"Piazzolla", serif ;
 }
+
+:root{
+    --main-bg:#1e272e;
+    --main-color:#0097e6;
+    
+}
+
+html{
+    font-size: 62.5%;
+}
+
+.row{
+    margin:0;
+}
+
+.main_menu{
+     background-color:var(--main-bg);   
+}
+
+.navbar{
+    color: #fff;
+    background-color:var(--main-bg);
+    padding:2rem 0;
+}
+
+.navbar li{
+    margin-left: 2rem;
+}
+
+.navbar a{
+    color:#fff;
+    font-size: 1.8rem ;
+}
+
+.navbar a:hover{
+    color:var(--main-color);
+}
+
+.navbar-toggler{
+    background-color: grey;
+}
+
+.fa-snowflake{
+    transition: all linear;
+    animation: rot 2s linear infinite;
+    color:var(--main-color);
+}
+
+@keyframes rot{
+    0%{
+        transform:rotate(0deg);
+    }
+    100%{
+        transform:rotate(360deg);
+    }
+}
+
+
+
+
+
