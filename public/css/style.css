@@ -17,6 +17,12 @@ html{
     font-size: 62.5%;
 }
 
+body{
+    height:100vh;
+    display:flex;
+    flex-direction: column;
+}
+
 .row{
     margin:0;
 }
@@ -62,6 +68,78 @@ html{
         transform:rotate(360deg);
     }
 }
+
+/* main header  */
+
+.main_header_left{
+
+height:70rem;
+display:flex;
+flex-direction: column;
+justify-content: center;
+align-items:flex-start;   
+
+}
+
+.main_header_left p{
+    font-size: 2rem;
+}
+
+.main_header_left h1{
+    font-size: 4rem;
+    margin:1rem 0 4rem  0;
+    text-transform:capitalize;
+}
+
+.main_header_left .text_clr{
+    color:var(--main-color);
+} 
+
+.main_header_left button{
+    border:none;
+    padding:0.8rem 1.8rem;
+    font-size: 1.4rem;
+    border-radius:2rem;
+    text-transform: uppercase;
+    box-shadow: 0 8px 6px -6px #000;  
+    outline:none;
+}
+
+.main_header_left button:hover{
+    box-shadow: 0 8px 6px -6px var(--main-color);
+}
+
+.main_header_right{
+
+    height:70rem;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:flex-start; 
+}
+
+.main_header_right figure img{
+
+}
+
+    /* footer style  */
+footer{
+    width:100%;
+    background-color:var(--main-bg);
+    margin-top: auto;
+}
+
+footer p{
+    margin:0;
+    text-align:center;
+    color:#fff;
+    line-height: 5rem;
+    font-size:1.4rem;
+    
+}
+
+
+
 
 
 
