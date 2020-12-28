@@ -122,6 +122,13 @@ align-items:flex-start;
     filter: drop-shadow(0 0.5rem 1rem rgba(0,0,0,0.3));
 }
 
+/* error page style  */
+.errorimg img{
+
+    width: 60rem;
+    height: 30rem;
+}
+
     /* footer style  */
 footer{
     width:100%;
