@@ -8,13 +8,11 @@ The Weather App is a real-time project developed using JavaScript, CSS, Express 
 
 1. **Clone the project**. `git clone https://github.com/Amulya-coder/Weather-App.git`
 
-2. **To create a package.json file for your application**.`npm init`
+2. **Create a package.json file for your application**. `npm init`
 
-3. **Now install Express in the weather-app directory and save it in the dependencies list. For example:
+3. **Now install Express in the weather-app directory and save it in the dependencies list. For example:**
     `npm install express`.
     
-4. **Run the setup script**. `npm install`
+4. **Insert the API key** that you got from [OpenWeatherMap](http://openweathermap.org) in `public/js/main.js`
 
-5. **Insert the API key** that you got from [OpenWeatherMap](http://openweathermap.org) in `public/js/main.js`
-
-6. **Run the app**. `npm start -s` 
+5. **Run the app**. `npm start -s` 
