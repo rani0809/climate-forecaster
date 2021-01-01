@@ -16,8 +16,7 @@ The Weather App is a real-time project developed using JavaScript, CSS, Express 
     
 4. **After that install nodemon as globally** `npm install -g nodemon`
 
-5.  **Handlebars Installation**
-    
+5.  **Handlebars Installation** 
     Install using npm
   ```
   npm install express-handlebars
@@ -25,6 +24,6 @@ The Weather App is a real-time project developed using JavaScript, CSS, Express 
 
 5. **Usage** `nodemon src/app.js`
  
-. **Insert the API key** that you got from [OpenWeatherMap](http://openweathermap.org) in `public/js/main.js`
+6. **Insert the API key** that you got from [OpenWeatherMap](http://openweathermap.org) in `public/js/main.js`
 
  
