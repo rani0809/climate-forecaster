@@ -14,6 +14,10 @@ The Weather App is a real-time project developed using JavaScript, CSS, Express 
 3. **Now install Express in the weather-app directory and save it in the dependencies list. For example:**
     `npm install express`.
     
-4. **Insert the API key** that you got from [OpenWeatherMap](http://openweathermap.org) in `public/js/main.js`
+4. **After that install nodemon as globally** `npm install -g nodemon`
 
-5. **Run the app**. `npm start -s` 
+5. **Usage** `nodemon src/app.js`
+ 
+5. **Insert the API key** that you got from [OpenWeatherMap](http://openweathermap.org) in `public/js/main.js`
+
+ 
