@@ -1,2 +1,3 @@
-# Weather-App
-This is the project on Weather Forecasting App using JavaScript , Node.js , Express , CSS and HTML.
+<div align="center">
+  <h1>Weather-App</h1>
+</div>
