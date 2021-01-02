@@ -4,6 +4,7 @@ const submitBtn=document.getElementById('submitBtn');
 const city_name=document.getElementById('city_name');
 const temp=document.getElementById('temp');
 const temp_status=document.getElementById('temp_status');
+const datahide  = document.querySelector('.middle_layer');
 
 const getInfo=  async(event)=>{
     event.preventDefault();
@@ -11,6 +12,7 @@ const getInfo=  async(event)=>{
 
     if(cityVal===""){
         city_name.innerText=`Please write the City name before search`;
+        datahide.classList.add('data_hide');
 
     }else{
         try{
@@ -37,9 +39,11 @@ const getInfo=  async(event)=>{
                 temp_status.innerHTML =
                     "<i class='fas  fa-sun' style='color:#eccc68;'></i>";
                 }
+               
         }
         catch{
             city_name.innerText=`Please write the City name properly`;
+            datahide.classList.add('data_hide');
         }
     }
 
