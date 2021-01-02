@@ -11,8 +11,9 @@ The Weather App is a real-time project developed using JavaScript, CSS, Express 
 2. **Create a package.json file for your application**.
    `npm init`
 
-3. **Now install Express in the weather-app directory and save it in the dependencies list. For example:**
-    `npm install express`.
+3. **Now install Express in the weather-app directory and save it in the dependencies list.
+
+    ```npm install express```.
     
 4. **After that install nodemon as globally** `npm install -g nodemon`
 
