@@ -271,10 +271,22 @@ footer p{
             margin-top:3rem;
         }
 
+.temp_form{
+
+  width:auto;
+}
+
+.tempInformation{
+
+    width: auto;
+}
+
+.main_layer .middle_layer p,
+  .main_layer .middle_layer .fa {
+    font-size: 5rem;
+  
+  }
+
  }
-
-
-
-
 
 
