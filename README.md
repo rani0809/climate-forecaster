@@ -56,12 +56,14 @@ I like this view engine because it uses sensible defaults that leverage the "Exp
 3 directories, 7 files
 ```
 
-# Screenshots
+##  :camera: Screenshots
  
  
+ ![weather1](https://user-images.githubusercontent.com/66437295/103481464-3c633300-4e01-11eb-91de-67a9424fd8b9.png)
  
  
- 
+ ![weather2](https://user-images.githubusercontent.com/66437295/103481668-7ed93f80-4e02-11eb-9d7c-43b4d88c2ac7.png)
+
  
  
  
