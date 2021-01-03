@@ -53,6 +53,27 @@ I like this view engine because it uses sensible defaults that leverage the "Exp
 
 3 directories, 7 files
 ```
+
+# Screenshots
+ [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com) <img src="https://img.shields.io/badge/uses%20-express-orange?style=for-the-badge&logo=express" height="35px">
+ <img src="https://img.shields.io/badge/Uses%20-Nodejs-orange?style=for-the-badge&logo=Nodejs" height="35px"> <img src="https://img.shields.io/badge/Made%20with-Handlebars-orange?style=for-the-badge&logo=Jupyter" height="35px"> [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) 
+ [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
 
  
