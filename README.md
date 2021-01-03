@@ -22,8 +22,14 @@ The Weather App is a real-time project developed using JavaScript, CSS, Express 
     Install using npm
   ```
   npm install express-handlebars
-  ```
-  
+ ``` 
+ 
+6. **Run the App by using command:** `nodemon src/app.js -e js,hbs`
+
+
+7. **Insert the API key** that you got from [OpenWeatherMap](http://openweathermap.org) in `public/js/main.js`
+
+ 
   ## Usage
   
 I like this view engine because it uses sensible defaults that leverage the "Express-way" of structuring an app's views. This makes it trivial to use in basic apps:
@@ -47,9 +53,6 @@ I like this view engine because it uses sensible defaults that leverage the "Exp
 
 3 directories, 7 files
 ```
-
-5. **Run the App by using command:** `nodemon src/app.js -e js,hbs`
  
-6. **Insert the API key** that you got from [OpenWeatherMap](http://openweathermap.org) in `public/js/main.js`
 
  
