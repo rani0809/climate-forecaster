@@ -59,10 +59,9 @@ I like this view engine because it uses sensible defaults that leverage the "Exp
 ##  :camera: Screenshots
  
  
- ![weather1](https://user-images.githubusercontent.com/66437295/103481464-3c633300-4e01-11eb-91de-67a9424fd8b9.png)
- 
- 
- ![weather2](https://user-images.githubusercontent.com/66437295/103481668-7ed93f80-4e02-11eb-9d7c-43b4d88c2ac7.png)
+ ![weather1](https://user-images.githubusercontent.com/66437295/110580105-f8d4ce80-818d-11eb-9c0f-36ad79cd95fd.png) 
+ ![weather2](https://user-images.githubusercontent.com/66437295/110580231-35a0c580-818e-11eb-8dd4-02e6cdaa60d0.png)
+
 
  
  
