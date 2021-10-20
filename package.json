@@ -1,7 +1,7 @@
 {
   "name": "expressweb",
   "version": "1.0.0",
-  "description": "",
+  "description": "<div align=\"center\">\r   <h1>Weather-App</h1>",
   "main": "index.js",
   "scripts": {
     "start": "node src/app.js"
@@ -10,6 +10,16 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
+    "express-handlebars": "^5.3.4",
     "hbs": "^4.1.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rani0809/climate-forecaster.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rani0809/climate-forecaster/issues"
+  },
+  "homepage": "https://github.com/rani0809/climate-forecaster#readme",
+  "devDependencies": {}
 }
