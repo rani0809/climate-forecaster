@@ -11,7 +11,7 @@ The Weather App is a real-time project developed using JavaScript, CSS, Express 
 
 ## Get Started
 
-1. **Clone or download this repository**. `git clone https://github.com/Amulya-coder/Weather-App.git`
+1. **Clone or download this repository**. `git clone https://github.com/rani0809/climate-forecater.git`
 
 2. **Create a package.json file for your application**.
    `npm init`
