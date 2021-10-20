@@ -1,7 +1,10 @@
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/rani0809) [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/rani0809)
+
 <div align="center">
   <h1>Weather-App</h1>
 
-[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com) <img src="https://img.shields.io/badge/uses%20-express-orange?style=for-the-badge&logo=express" height="35px"> <img src="https://img.shields.io/badge/Uses%20-Nodejs-orange?style=for-the-badge&logo=Nodejs" height="35px"> <img src="https://img.shields.io/badge/Made%20with-Handlebars-orange?style=for-the-badge&logo=Jupyter" height="35px"> [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
+
+
 </div>
 
 The Weather App is a real-time project developed using JavaScript, CSS, Express and Handlebars. This project is an interesting project for simply weather forecasting. The user can check the condition of the present-day climate probability and predict whether the day is a cloudy or sunny day. The user can write down the name of any city across the world in the app.  
@@ -44,23 +47,6 @@ The Weather App is a real-time project developed using JavaScript, CSS, Express 
   
   This view engine uses sensible defaults that leverage the "Express-way" of structuring an app's views. This makes it trivial to use in basic apps:
 
-**Directory Structure of Project**
-
-```
-.
-├── Templates
-└── partials
-    ├── footer.hbs
-    ├── headerLinks.hbs
-    ├── navbar.hbs
-└── views
-    ├── 404error.hbs
-    ├── about.hbs
-    ├── index.hbs
-    ├── weather.hbs
-
-3 directories, 7 files
-```
 
 ##  :camera: Screenshots
  
